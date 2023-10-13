@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 **Peer-graded Assignment: Getting and Cleaning Data Course Project** :
 
