@@ -1,12 +1,4 @@
----
-title: "CodeBook.md"
-author: "AREEBA"
-date: "`r Sys.Date()`"
-output: html_document
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 
 The run_analysis.R script performs the data preparation and then
 followed by the 5 steps required as described in the course project's
